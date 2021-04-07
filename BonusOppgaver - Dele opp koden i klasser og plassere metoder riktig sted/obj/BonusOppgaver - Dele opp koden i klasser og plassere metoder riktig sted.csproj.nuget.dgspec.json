@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Theodor\\source\\repos\\Dele Opp I klasser\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj": {}
+    "C:\\Users\\Henrik\\Desktop\\modul 3\\Uke 5\\Dele-Opp-I-klasser-\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Theodor\\source\\repos\\Dele Opp I klasser\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj": {
+    "C:\\Users\\Henrik\\Desktop\\modul 3\\Uke 5\\Dele-Opp-I-klasser-\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Theodor\\source\\repos\\Dele Opp I klasser\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj",
+        "projectUniqueName": "C:\\Users\\Henrik\\Desktop\\modul 3\\Uke 5\\Dele-Opp-I-klasser-\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj",
         "projectName": "BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted",
-        "projectPath": "C:\\Users\\Theodor\\source\\repos\\Dele Opp I klasser\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj",
-        "packagesPath": "C:\\Users\\Theodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Theodor\\source\\repos\\Dele Opp I klasser\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\obj\\",
+        "projectPath": "C:\\Users\\Henrik\\Desktop\\modul 3\\Uke 5\\Dele-Opp-I-klasser-\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.csproj",
+        "packagesPath": "C:\\Users\\Henrik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Henrik\\Desktop\\modul 3\\Uke 5\\Dele-Opp-I-klasser-\\BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Theodor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Henrik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
