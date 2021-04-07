@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted/1.0.0": {
+        "runtime": {
+          "BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BonusOppgaver - Dele opp koden i klasser og plassere metoder riktig sted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

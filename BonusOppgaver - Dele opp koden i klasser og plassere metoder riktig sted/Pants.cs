@@ -4,13 +4,11 @@ using System.Text;
 
 namespace BonusOppgaver___Dele_opp_koden_i_klasser_og_plassere_metoder_riktig_sted
 {
-    class AllClothes
-    {
-        public Clothes[] clothes;
+    class Pants : Clothes
 
-        public AllClothes(params Clothes[] Clothes)
+    {
+        public Pants(int Price, int Size, string Color, string Brand, int InStock) : base(Price, Size, Color, Brand, InStock, "Pants")
         {
-            clothes = Clothes;
         }
     }
 }
