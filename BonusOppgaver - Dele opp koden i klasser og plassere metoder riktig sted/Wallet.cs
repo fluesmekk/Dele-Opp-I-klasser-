@@ -6,11 +6,12 @@ namespace BonusOppgaver___Dele_opp_koden_i_klasser_og_plassere_metoder_riktig_st
 {
     class Wallet
     {
-        public int Money;
-
-        public Wallet(int money)
+        public int Money = 0;
+        public string Currency = null;
+        public Wallet(int money, string currency)
         {
             Money = money;
+            Currency = currency;
         }
     }
 }

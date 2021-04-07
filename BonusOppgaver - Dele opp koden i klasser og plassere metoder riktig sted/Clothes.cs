@@ -6,13 +6,12 @@ namespace BonusOppgaver___Dele_opp_koden_i_klasser_og_plassere_metoder_riktig_st
 {
     class Clothes
     {
-        
 
         public int Price { get; }
         public int Size { get; }
         public string Color { get; }
         public string Brand { get; }
-        public int InStock { get; }
+        public int InStock { get; set; }
         public string Category { get; }
 
         public Clothes(int price, int size, string color, string brand, int inStock, string category)
